@@ -8,8 +8,8 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'my-first-app';
   allData = [{
-    name: 'ზურა',
-    surename: 'ცინცაძე',
+    name: 'გიორგი',
+    surename: 'ვაშაკიძე',
     personalNumber: '12345678911'
   }]
   getDatas(e){
